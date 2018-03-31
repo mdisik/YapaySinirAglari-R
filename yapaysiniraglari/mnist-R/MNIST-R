@@ -1,0 +1,13 @@
+Modified	National	Institute	of	Standards	and	Technology	(MNIST)	is	a	large database	of	handwritten	digits...
+
+MNIST	has	a	sample	of	several	handwritten	digits
+
+We	will	split	the	dataset	of	70,000	rows	into	60,000	training	rows	and 10,000	test	rows.	
+
+we'll	find	the	accuracy	of	the	model
+
+28x28	pixel	handwritten	digits containing	numbers	between	zero	and	nine.
+
+At	this	point,	we	create	a	28x28	matrix	with	pixel	color	values	by	taking	the tenth	row	of	the	dataset
+
+These	are	the	images	of	the	handwritten	digits	contained	in	the	first	six	rows	of the	dataset
